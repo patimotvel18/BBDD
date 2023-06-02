@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Base de Datos</string>
+    <string name="Nombre">Ingresa Nombre:</string>
+    <string name="Apellido">Ingresa Apellidos:</string>
+    <string name="Num_control">Ingresa Numero de control:</string>
+    <string name="btnGuarda">Guardar</string>
+    <string name="MenuIngreso">Ingresar nuevo registro</string>
+</resources>
